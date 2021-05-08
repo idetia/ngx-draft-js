@@ -39,7 +39,7 @@
     "@angular/core": "~11.2.0",
     "@angular/platform-browser": "~11.2.0",
     "@angular/platform-browser-dynamic": "~11.2.0",
-    "core-js": "^2.4.1",
+    "core-js": "~3.12.0",
     "draft-js": "^0.10.4",
     "draft-js-export-html": "^1.2.0",
     "react": "^16.2.0",
